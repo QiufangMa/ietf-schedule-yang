@@ -1,5 +1,6 @@
 ---
 test
+test
 title: "A YANG Data Model for Scheduling"
 abbrev: "schedule YANG"
 category: std
